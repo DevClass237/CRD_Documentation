@@ -18,13 +18,22 @@ Arduino
 
 ## Alunos Envolvidos :stars:
 Dannyele Silva Teixeira
+
 Willian Dias Marinho
+
 João Victor Oliveira Dourado Costa
+
 Davi Fontinele de Sousa
+
 Iago Ferreira Cirino
+
 Welson Ferreira de Carvalho
+
 Kaio Rodrigo Ferreira Dos Santos
+
 Bruno Rodrigues Pajeu
+
+Wenerson Douglas Dos Santos Lima
 
 ## Links para repositórios :pushpin:
 --Software
