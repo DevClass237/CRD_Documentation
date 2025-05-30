@@ -38,6 +38,8 @@ Wenerson Douglas Dos Santos Lima
 ## Links para repositórios :pushpin:
 --Software
 
---Hardware
+Hardware 
+https://github.com/DevClass237/HardwareCode
 
---SQL
+SQL
+https://github.com/DevClass237/SQLCode
