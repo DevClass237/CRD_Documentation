@@ -51,6 +51,8 @@ Modelagem Fisíca :triangular_ruler:
 
 :man: Kaio Rodrigo Ferreira Dos Santos
 
+:man: Wenerson Douglas Dos Santos Lima
+
 Tester :sparkles:
 
 :man: Samuel Teles (Instrutor)
