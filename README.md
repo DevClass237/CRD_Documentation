@@ -1,45 +1,51 @@
 # CRD (Controle de Retirada e Devolução)
 
 ## Objetivo :dart:
-Esse projeto visa ajudar/agilizar o registro de retiradas e devoluções dos materiais de aula da instituição do SENAI-CETEC.
+Este projeto tem como objetivo ajudar e agilizar o registro de retiradas e devoluções dos materiais de aula da instituição SENAI-CETEC.
 
 ## Visão Geral de Funcionamento :telescope:
-O sistema se trata de um aparelho que ler tokens RFID, sendo que cada pochete de material terá um anexado, servido como um ID ou um código para cada pochete. Basta aproximar o token no local especificado, inserir a sua matricula e pronto o sistema faz o resto. O código analisa com base na situação atual do sistema.
-Caso o token lido não tenha side retirado, o sistema marca como retidado e quem o retirou com base na matricula inserida, caso o token ja tenha sido retirado, o sistema marca como devolvido e quem devolveu com base na matricula inserida.
+O sistema consiste em um aparelho que lê tokens RFID. Cada pochete de material possui um token anexado, funcionando como um ID exclusivo. Basta aproximar o token no local indicado, inserir a matrícula do aluno e o sistema realiza automaticamente o registro.
+
+O código analisa a situação atual do token:
+
+• Caso o token ainda não tenha sido retirado, o sistema registra a retirada, associando-a à matrícula inserida.
+
+• Caso o token já tenha sido retirado, o sistema registra a devolução, também vinculada à matrícula informada.
 
 ## Tecnologias Utilizadas :computer:
-SQL
+• SQL
 
-C#.NET
+• C#.NET
 
-C++
+• C++
 
-Arduino
+• Arduino
 
 ## Alunos Envolvidos :stars:
-Dannyele Silva Teixeira
+• Dannyele Silva Teixeira
 
-Willian Dias Marinho
+• Willian Dias Marinho
 
-João Victor Oliveira Dourado Costa
+• João Victor Oliveira Dourado Costa
 
-Davi Fontinele de Sousa
+• Davi Fontinele de Sousa
 
-Iago Ferreira Cirino
+• Iago Ferreira Cirino
 
-Welson Ferreira de Carvalho
+• Welson Ferreira de Carvalho
 
-Kaio Rodrigo Ferreira Dos Santos
+• Kaio Rodrigo Ferreira Dos Santos
 
-Bruno Rodrigues Pajeu
+• Bruno Rodrigues Pajeu
 
-Wenerson Douglas Dos Santos Lima
+• Wenerson Douglas Dos Santos Lima
 
 ## Links para repositórios :pushpin:
---Software
+• Software
+(link ainda não informado)
 
-Hardware 
+• Hardware 
 https://github.com/DevClass237/HardwareCode
 
-SQL
+• SQL
 https://github.com/DevClass237/SQLCode
