@@ -30,7 +30,7 @@ O código analisa a situação atual do token:
 
 • Davi Fontinele de Sousa
 
-• Iago Ferreira Cirino
+• Yago Ferreira Cirino
 
 • Welson Ferreira de Carvalho
 
