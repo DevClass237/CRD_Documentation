@@ -42,7 +42,7 @@ O código analisa a situação atual do token:
 
 ## Links para repositórios :pushpin:
 • Software
-(link ainda não informado)
+https://github.com/DevClass237/Software_Code
 
 • Hardware 
 https://github.com/DevClass237/HardwareCode
