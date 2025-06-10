@@ -21,9 +21,6 @@ Foi utilizada a tecnologia Blazor, que permite desenvolver páginas web utilizan
 ## Modelo Físico :black_nib:
 Para acomodar os componentes de hardware, foi desenvolvida uma estrutura em acrílico utilizando a ferramenta AutoCAD 2025. O modelo está anexado na documentação. Foram utilizadas duas placas de acrílico: uma de 5mm para a estrutura principal e outra de 3mm na parte do encaixe do teclado membrana. Esse encaixe foi projetado com duas placas sobrepostas para evitar que a espessura ficasse excessiva, caso fosse utilizada apenas a placa de 5mm.
 
-## Instalação :hourglass_flowing_sand:
-Em desenvolvimento. Instruções futuras incluirão: instalação do software, conexão de hardware, configuração do banco de dados e execução inicial.
-
 ## Organização :file_folder:
 Versionamento de código: GitHub
 
@@ -62,8 +59,5 @@ Testes :sparkles:
 
 • :man: Samuel Teles (Instrutor)
 
-# Possiveis Melhorias :dizzy:
-Incluir sugestões de melhorias futuras, como: integração com aplicativo mobile, implementação de dashboard de monitoramento, uso de sensores adicionais, entre outros.
-
 # Conclusão :ok_hand:
-Em desenvolvimento. Aqui deve ser apresentado um resumo dos resultados alcançados, principais aprendizados da equipe e a importância do projeto para a formação técnica e para a instituição.
+O projeto alcançou os resultdos esperados pela turma, todas as equipes puderam se desenvolver, aprender e se aperfeiçoar.
