@@ -22,23 +22,23 @@ O código analisa a situação atual do token:
 • Arduino
 
 ## Alunos Envolvidos :stars:
-• Dannyele Silva Teixeira
-
-• Willian Dias Marinho
-
-• João Victor Oliveira Dourado Costa
+• Bruno Rodrigues Pajeu
 
 • Davi Fontinele de Sousa
 
-• Yago Ferreira Cirino
+• Dannyele Silva Teixeira
 
-• Welson Ferreira de Carvalho
+• João Victor Oliveira Dourado Costa
 
 • Kaio Rodrigo Ferreira Dos Santos
 
-• Bruno Rodrigues Pajeu
+• Welson Ferreira de Carvalho
 
 • Wenerson Douglas Dos Santos Lima
+
+• Willian Dias Marinho
+
+• Yago Ferreira Cirino
 
 ## Links para repositórios :pushpin:
 • Software
